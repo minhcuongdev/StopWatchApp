@@ -1,11 +1,7 @@
 # Introduction 🎉
 Hello everyone, StopWatchApp is a small project of me. I think you can learn more knowledge' react native
 
-
-<img src="./assets/Pic1.jpg" width="200" height="400">
-<img src="./assets/Pic3.jpg" width="200" height="400">
-<img src="./assets/Pic4.jpg" width="200" height="400">
-
+<img src="./assets/Pic1.jpg" width="200" height="400"> <img src="./assets/Pic3.jpg" width="200" height="400"> <img src="./assets/Pic4.jpg" width="200" height="400">
 
 # Document 🍥
 ## Install 🚗
